@@ -288,7 +288,7 @@ section {
     border-radius: 2rem;
    
     object-fit: cover; /* Maintains the aspect ratio and crops if necessary */
-    filter: grayscale(53%); /* Makes the image fully unsaturated */
+    filter: grayscale(53%);
   }
   
 
